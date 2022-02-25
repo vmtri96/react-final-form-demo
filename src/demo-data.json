@@ -1,6 +1,0 @@
-{
-  "data": [
-    { "name": "Person 1", "age": 21, "position": "Web Developer", "city": "HCM" },
-    { "name": "Person 2", "age": 12, "position": "Web Developer", "city": "HCM" }
-  ]
-}
